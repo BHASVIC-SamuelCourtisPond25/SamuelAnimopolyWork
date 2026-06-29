@@ -45,4 +45,10 @@ public class Main {
     Ocean shark = new Ocean(1,1,1,false,1);
     Ocean turtle = new Ocean(1,1,1,false,1);
     Ocean dolphin = new Ocean(1,1,1,false,1);
+
+    //PLAYERS
+
+    Player player1 = new Player(500,0,true);
+    Player player2 = new Player(500,0,true);
+    Player player3 = new Player(500,0,true);
 }
