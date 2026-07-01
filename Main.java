@@ -51,4 +51,6 @@ public class Main {
     Player player1 = new Player(500,0,true);
     Player player2 = new Player(500,0,true);
     Player player3 = new Player(500,0,true);
+
+    
 }
